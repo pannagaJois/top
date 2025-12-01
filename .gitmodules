@@ -1,0 +1,3 @@
+[submodule "top-recipes"]
+	path = top-recipes
+	url = git@github.com:pannagaJois/top-recipes.git
