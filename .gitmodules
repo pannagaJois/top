@@ -1,3 +1,6 @@
 [submodule "top-recipes"]
 	path = top-recipes
 	url = git@github.com:pannagaJois/top-recipes.git
+[submodule "/home/jois/Desktop/code/top/foundation/css-exercises"]
+	path = /home/jois/Desktop/code/top/foundation/css-exercises
+	url = git@github.com:pannagaJois/css-exercises.git
