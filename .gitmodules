@@ -4,3 +4,9 @@
 [submodule "/home/jois/Desktop/code/top/foundation/css-exercises"]
 	path = /home/jois/Desktop/code/top/foundation/css-exercises
 	url = git@github.com:pannagaJois/css-exercises.git
+[submodule "top-landing-page"]
+	path = top-landing-page
+	url = git@github.com:pannagaJois/top-landing-page.git
+[submodule "foundation/top-javascript-exercises"]
+	path = foundation/top-javascript-exercises
+	url = git@github.com:pannagaJois/top-javascript-exercises.git
